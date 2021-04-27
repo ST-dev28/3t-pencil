@@ -1,0 +1,69 @@
+body,
+body* {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+}
+
+body { 
+    background-color: beige;
+}
+
+.heading {
+
+}
+
+img {
+
+}
+
+div {
+
+}
+
+.top-links {
+
+}
+
+.top-links > a {
+
+}
+
+.middle-part { 
+
+}
+
+.middle-part > img {
+
+}
+
+.middle-part > h1 {
+
+}
+
+.middle-part > p {
+
+}
+
+.middle-part > a { 
+
+}
+
+.bottom-part { 
+
+}
+ .bottom-part > p {
+
+ }
+
+ .bottom-links {
+
+ }
+
+ .bottom-links > a {
+
+ }
+
+ 
