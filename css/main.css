@@ -1,10 +1,10 @@
 body,
-body* {
+body * {
     margin: 0;
     padding: 0;
     vertical-align: top;
     box-sizing: border-box;
-    font-family: Tahoma, sans-serif;  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
 }
 
 body { 
@@ -83,8 +83,8 @@ header > nav > a:last-child {
 
 .middle-part > h1 {
     display: block;
-    font-size: 200px;
-    line-height: 140px;
+    font-size: 160px;
+    line-height: 120px;
     margin: 0;
     color: #424344;
 }
@@ -93,10 +93,11 @@ header > nav > a:last-child {
     display: block;
     width: 30%;
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
     line-height: 24px;
-    color: #424344;
+    color: #6D6F70;
     margin-top: 10px;
+    margin-bottom: 20px;
     margin-left: 35%;
 }
 
