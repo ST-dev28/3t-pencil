@@ -83,8 +83,8 @@ header > nav > a:last-child {
 
 .middle-part > h1 {
     display: block;
-    font-size: 160px;
-    line-height: 110px;
+    font-size: 200px;
+    line-height: 140px;
     margin: 0;
     color: #424344;
 }
@@ -96,6 +96,7 @@ header > nav > a:last-child {
     font-size: 24px;
     line-height: 24px;
     color: #424344;
+    margin-top: 10px;
     margin-left: 35%;
 }
 
